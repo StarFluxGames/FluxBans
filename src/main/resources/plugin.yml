@@ -1,0 +1,9 @@
+name: FluxBans
+version: '${project.version}'
+main: com.starflux.fluxbans.FluxBans
+api-version: 1.18
+prefix: FluxBans
+depend: [ Litebans ]
+authors: [ StarFluxGames ]
+description: Litebans GUI
+website: http://starfluxgames.com/
